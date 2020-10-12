@@ -1,3 +1,9 @@
+---
+title: "M5StickC MQTT button"
+date: 2020-09-12
+thumbnail: "https://raw.githubusercontent.com/TkkrLab/CoronaTeller/master/M5StcikC_MQTT_Button.JPG"
+---
+
 # M5StickC MQTT button
  Open / Close workplace with MQTT message
 
