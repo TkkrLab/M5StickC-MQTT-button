@@ -1,7 +1,7 @@
 ---
 title: "M5StickC MQTT button"
 date: 2020-09-12
-thumbnail: "https://raw.githubusercontent.com/TkkrLab/CoronaTeller/master/M5StcikC_MQTT_Button.JPG"
+thumbnail: "https://raw.githubusercontent.com/TkkrLab/M5StickC-MQTT-button/master/M5StcikC_MQTT_Button.JPG"
 ---
 
 # M5StickC MQTT button
